@@ -1,0 +1,1 @@
+1. 開啟鬧鐘時會將TimePicker停用，關閉鬧鐘時則會將TimePicker啟用

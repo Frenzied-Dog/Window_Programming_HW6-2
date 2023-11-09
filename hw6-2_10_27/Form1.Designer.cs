@@ -108,9 +108,8 @@
             NoonLabel.Font = new Font("Microsoft JhengHei UI", 20F, FontStyle.Regular, GraphicsUnit.Point);
             NoonLabel.Location = new Point(1137, 185);
             NoonLabel.Name = "NoonLabel";
-            NoonLabel.Size = new Size(42, 70);
+            NoonLabel.Size = new Size(0, 35);
             NoonLabel.TabIndex = 7;
-            NoonLabel.Text = "上\r\n午";
             // 
             // Timer1
             // 
